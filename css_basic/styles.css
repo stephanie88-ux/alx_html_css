@@ -10,7 +10,10 @@ flex: auto;
 
 article {
 flex: 2;
-overflow-y: auto
+overflow-y: auto;
+background-color: #f9f9f8;
+color: rgb(61, 14, 14)
+
 }
 
 aside {
