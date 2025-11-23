@@ -1,111 +1,43 @@
 # CSS Advanced - SmileSchool Landing Page
 
-This project is an advanced CSS implementation of a professional landing page for SmileSchool, an online learning platform.
+## What is this project?
 
-## Project Overview
+This project is about styling a website for SmileSchool using CSS. I took take the HTML structure and make it look professional and beautiful!
 
-This is a fully styled, responsive landing page that showcases advanced CSS techniques including layout, positioning, typography, and visual design.
+## What you'll build
 
-## Page Sections
+**Header** - The top of the page with the logo and navigation links
 
-### 1. Header
-- SmileSchool logo and branding
-- Navigation menu (COURSES, PRICING, LOGIN)
-- Clean, professional design with good contrast
+**Hero Section** - The big banner with "Get schooled" heading and a "REGISTER FOR FREE" button
 
-### 2. Hero Section
-- Large hero image with overlay text
-- Main heading: "Get schooled"
-- Call-to-action button "REGISTER FOR FREE"
-- Subheading navigation (SMILES, GRIN, LAUGH)
-- Tagline: "Learn from the pros"
+**Instructors Section** - Four profiles of the pros who teach on SmileSchool (with their pictures in circles)
 
-### 3. Instructors/Pros Section
-- Grid display of 4 professional instructors:
-  - Philip Massey - Smile of the year (2018-2019)
-  - Nannie Lawrence - Best little smile (2017)
-  - Bruce Walters - Best Friend Smile (Live performance 2019)
-  - Henry Hughes - 24h smiles winner (2016-2019)
-- Circular profile images
-- Professional credentials displayed
+**Testimonial** - A purple section with a quote from someone who uses SmileSchool
 
-### 4. Testimonial Section
-- Purple gradient background
-- Quote with author information
-- Person Name with title "weather presenter"
-- Large dimension display: 1440 x 1093
-- Circular profile image
+**Popular Tutorials** - Cards showing different tutorials with play buttons, ratings, and instructor info
 
-### 5. Popular Tutorials
-- Heading: "Most popular tutorials"
-- Grid of tutorial cards with:
-  - Thumbnail images
-  - Play button overlays
-  - Tutorial titles (Diagonal Smile, Sad Smile, Natural Smile, Happy Smile)
-  - Author information
-  - Star ratings (5-star system)
-  - Duration/view information
+**Free Membership** - A dark section explaining the benefits of joining (with a register button)
 
-### 6. Free Membership Section
-- Dark background for contrast
-- Heading: "Free membership"
-- Grid of 4 membership benefits:
-  - Each with an icon (smile symbol)
-  - "Lorem Ipsum" heading
-  - Description text
-- "REGISTER FOR FREE" call-to-action button
+**F.A.Q.** - Questions and answers about how SmileSchool works
 
-### 7. F.A.Q. Section
-- White background
-- "F.A.Q." heading
-- Two-column layout with questions:
-  - "How does this work?"
-  - "How does this work?"
-  - "How does this work?"
-  - "How does this work?"
-- Lorem ipsum placeholder text for answers
+**Footer** - Bottom of the page with logo and social media links
 
-### 8. Footer
-- Dark navy background
-- SmileSchool logo
-- Social media icons (Facebook, Twitter, Instagram)
-- Copyright/additional information
+## What you'll learn
 
-## Design Features
+### Colors
+- Main color: Purple 
+- Dark backgrounds: Navy/dark gray
+- Light sections: White
 
-- **Color Scheme**: Purple accent color (#7C5DFA), dark navy, white, grayscale
-- **Typography**: Clean, modern sans-serif fonts with clear hierarchy
-- **Layout**: Responsive grid and flexbox layouts
-- **Images**: High-quality circular profile images and tutorial thumbnails
-- **Interactive Elements**: Buttons, hover states, play buttons
-- **Contrast**: Good text-to-background contrast for accessibility
+### CSS Skills You'll Practice
+- **Flexbox** - For arranging items in rows and columns
+- **Grid** - For creating card layouts (like the tutorial cards)
+- **Positioning** - To place elements exactly where you want them
+- **Gradients** - For the purple background effect
+- **Border-radius** - To make circular images
+- **Box shadows** - To add depth to cards and buttons
+- **Hover effects** - To make buttons interactive
 
-## Page Dimensions
-
-- Design width: 1440px
-- Design height: 1093px (as shown in testimonial section)
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- Advanced CSS techniques:
-  - Flexbox
-  - Grid Layout
-  - Positioning
-  - Gradients
-  - Box shadows
-  - Border radius
-  - Custom styling
-
-## Project Purpose
-
-This project demonstrates proficiency in:
-- Creating pixel-perfect designs from mockups
-- Implementing responsive layouts
-- Using modern CSS techniques
-- Building professional, production-ready web pages
-- Structuring complex multi-section pages
 
 ## Author
 
