@@ -289,3 +289,44 @@ body {
     color: #9b51e0;
     font-weight: 600;
 }
+
+/* Membership section */
+.membership-section {
+    background: #071629;
+    padding: 80px 50px;
+    text-align: center;
+}
+
+.membership-section .section-title {
+    color: white;
+}
+
+.membership-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto 60px;
+}
+
+.membership-card {
+    text-align: center;
+}
+
+.membership-icon {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.membership-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.membership-description {
+    font-size: 14px;
+    opacity: 0.8;
+    line-height: 1.6;
+}
