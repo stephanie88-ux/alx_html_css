@@ -4,7 +4,7 @@ A modern, responsive landing page for premium headphones based on the Figma desi
 
 ## Features
 
-- **Responsive Design**: Works seamlessly on desktop and mobile devices
+- **Responsive Design**: Works seamlessly on desktop, tablet and mobile devices
 - **Modern UI**: Dark theme with coral accent colors
 - **Smooth Animations**: Floating hero image, hover effects, and transitions
 - **Clean Code**: Semantic HTML5 and organized CSS
@@ -43,6 +43,7 @@ headphones-landing/
 ## Responsive Breakpoints
 
 - Desktop: 1024px and above
+- Tablet: 768px - 1024px  
 - Mobile: Below 768px
 
 ## Browser Support
