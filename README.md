@@ -46,5 +46,4 @@ headphones-landing/
 - Mobile: Below 768px
 
 ## Browser Support
-
  
